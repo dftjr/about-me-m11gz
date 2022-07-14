@@ -1,5 +1,9 @@
 h1 {
-  font-size: 3rem; color:navy
+  font-size: 3rem; color: navajowhite
+}
+
+h1 {
+  background-color: navy;
 }
 
 ul {
@@ -21,4 +25,29 @@ body {
   background-color: black;
 }
 
+ol {
+  font-size: 1rem; color: navy
+}
 
+h2 {
+  font-size: 1.5rem; color: navajowhite;
+}
+
+h2 {
+  background-color: navy;
+}
+
+h3 {
+  font-size: 1.5rem; color: navajowhite
+}
+
+h3 {
+  background-color: navy
+}
+
+ul {
+  font-size: 1rem; color: navajowhite
+}
+ul {
+  background-color: navy;
+}
